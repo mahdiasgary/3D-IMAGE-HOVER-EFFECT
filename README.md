@@ -2,7 +2,7 @@
 
 STYLE TIME #1
 
-![](3D%IMAGE.gif)
+![](./3D%IMAGE.gif)
 
 
 ---
