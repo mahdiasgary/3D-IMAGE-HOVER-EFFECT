@@ -2,7 +2,7 @@
 
 STYLE TIME #1
 
-![](./3D%IMAGE.gif)
+<img src='./3DIMAGE.gif' alt=''  width="450" height="450"/>
 
 
 ---
